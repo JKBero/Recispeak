@@ -1,11 +1,16 @@
 # Recispeak
 
-
-[Demo](#demo) | [Getting Started](#getting-started) | [User Stories](#user-stories) | [Features](#features)| [Code Style](#code-style) | [Tech used](#tech-used) | 
+[Demo](#demo) | [Getting Started](#getting-started) | [User Stories](#user-stories) | [Features](#features)| [Code Style](#code-style) | [Tech used](#tech-used) |
 
 An Android app that uses voice recognition, allowing the user to list the foods in their kitchen, and see a list of recipes based on those ingredients. Designed to tackle food waste and save the user money on future food shops.
 
 Read about our process and learning experience [here](https://github.com/dbacall/Recispeak/blob/master/ProgressReports.md).
+
+## Purpose
+
+This is a copy of the original group project, in order to improve upon refactoring and testing, explore accessibility and performance, and introduce React Hooks.
+
+Resource: [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
 
 ## Demo
 
@@ -20,7 +25,7 @@ Read about our process and learning experience [here](https://github.com/dbacall
 - Click on your preferred development OS
 - Click on Android and follow the instructions in the 'Android development environment' section
 - From your terminal run `react-native run-android`
-  
+
 ### Code Quality
 
 - EditorConfig was used to increase the code quality
